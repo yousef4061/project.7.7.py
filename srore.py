@@ -199,9 +199,4 @@ while True:
             print("please enter a number between 1 and 8!")
     except ValueError:
             print(f"error: '{choice_input}' is not a valid number! please enter a number between 1 and 7.")
-            continue
-        # for product in PRODUCTS:
-        #     print(product)
-
-            #گزینه فابلیت  تخفیف رو به فروشگاه باید اضافه کنم
-            #\n اینو باید حذقش کنم
+            continue    
