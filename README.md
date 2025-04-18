@@ -32,13 +32,14 @@ Yousef store is a simple inventory management system built in python. this proje
 - **`README.md`:** This file, providing documention for the project.
 
 ## Usage Example
+
 1. Start the program:
-Welcome to Yousef Store loading... Data loaded. 1-Add  2- Edit 3- Remove 4- search 5- show List 6- Buy 7- Exit Enter your choice (1-7):
+Welcome to Yousef Store loading... Data loaded. 1-Add  2- Edit 3- Remove 4- search 5- show List 6- Buy 7- Discount 8- Exit Enter your choice (1-8):
 
 2. Add a product:
  - choose option `1` to add a product:
  ```
- Enter your choice (1-7): 1
+ Enter your choice (1-8): 1
  Enter code: 101
  Enter name: apple
  Enter price: 5000
@@ -49,7 +50,7 @@ Welcome to Yousef Store loading... Data loaded. 1-Add  2- Edit 3- Remove 4- sear
 3. Show the product list:
  - Choose option `5` to display the list:
  ```
- Enter your choice (1-7): 5
+ Enter your choice (1-8): 5
  101 Apple 5000
  ```
 
@@ -71,16 +72,16 @@ enter your choice(1-8): 5
  5.Buy a product:
   - Choose option `6` to buy a product:
   ```
-  Enter your choice (1-7): 6
+  Enter your choice (1-8): 6
   Enter product code to buy: 101
   Enter quantity to buy: 3
   Successfully bought 3 of Apple!
   ```
 
-5. Exit the program:
+6. Exit the program:
  - Choose option `7` to exit:
  ```
- Enter your choice (1-7): 7
+ Enter your choice (1-8): 7
  mese edam vared kon :')
  ```
 
